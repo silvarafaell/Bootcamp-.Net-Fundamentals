@@ -1,0 +1,68 @@
+Entendendo o que é o Git e sua importancia
+-controle de versão
+-armazenamento em nuvem
+-trabalho em equipe
+-melhorar seu codigo
+-reconhecimento
+
+Navegação via command line interface e instalação
+-mudar de pastas
+-listar pastas
+-criar pastas/arquivos
+-deletar pastas/arquivos
+
+-dir > lista de diretorio no Windows
+-ls > lista de diretorio no Linux
+-cd > navegação por pasta
+-mkdir > cria uma pasta
+
+Ressaltando as principais diferenças entre os sistemas operacionais
+Windows      Linux
+cd	     cd
+dir          ls
+mkdir        mkdir
+del/rmdir    rm-rf
+
+Entendendo como o git funciona por baixo dos panos
+-SHA1
+-objetos fundamentais
+-sistema distribuido
+-segurança
+
+A sigla SHA > Significa secure HASH Algorithen(Algoritimo de HASH seguro), é um conjunto de funções hash criptográficas projetadas pela nsa(agencia de segurança nacional dos EUA)
+
+A encriptação gera conjunto de caracteres identificador de 40 digitos
+-objetos internos do git
+-Blobs
+-trees
+-commits
+
+Blobs
+ >Meta dados do git
+
+TRE
+ >armazena Blobs
+
+-commit
+ >É o que vai juntar tudo
+ >tambem possui SH
+
+Git sistema distribuído seguro
+
+Primeiros comandos com o git
+-Iniciar o git
+-iniciar um versionamento
+-criar um commit
+mikdir - cria uma pasta em algum diretorio
+git init - inicializa o git
+ls -a > -a lista itens ocultos
+
+Configuraçoes iniciais
+git config --global user.email "email"
+git config --global "nome"
+
+git add
+git commit -m "texto do commit"
+
+ciclo de vida dos arquivos no git
+-git init > inicializar o conceito chamado repositorio
