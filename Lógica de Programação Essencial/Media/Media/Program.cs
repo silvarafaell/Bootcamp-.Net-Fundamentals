@@ -26,7 +26,18 @@ namespace Media
 
             media = (nota1 + nota2 + nota3 + nota4) / 4;
 
-            Console.Write("O aluno: "  + "obteve a media: " + media);
+            Console.WriteLine("O aluno: " +  aluno +  " " +  "obteve a media: " + media);
+
+            if (media >= 7)
+            {
+               Console.WriteLine("Parabens você foi aprovado");
+            }
+            else
+            {
+                Console.WriteLine("Infelizmente você foi reprovado");
+            }
+               
+
 
         }
     }
