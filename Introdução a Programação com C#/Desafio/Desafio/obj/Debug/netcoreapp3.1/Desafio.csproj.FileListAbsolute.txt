@@ -1,0 +1,13 @@
+C:\Projetos\Bootcamp-.Net-Fundamentals\Introdução a Programação com C#\Desafio\Desafio\bin\Debug\netcoreapp3.1\Desafio.exe
+C:\Projetos\Bootcamp-.Net-Fundamentals\Introdução a Programação com C#\Desafio\Desafio\bin\Debug\netcoreapp3.1\Desafio.deps.json
+C:\Projetos\Bootcamp-.Net-Fundamentals\Introdução a Programação com C#\Desafio\Desafio\bin\Debug\netcoreapp3.1\Desafio.runtimeconfig.json
+C:\Projetos\Bootcamp-.Net-Fundamentals\Introdução a Programação com C#\Desafio\Desafio\bin\Debug\netcoreapp3.1\Desafio.runtimeconfig.dev.json
+C:\Projetos\Bootcamp-.Net-Fundamentals\Introdução a Programação com C#\Desafio\Desafio\bin\Debug\netcoreapp3.1\Desafio.dll
+C:\Projetos\Bootcamp-.Net-Fundamentals\Introdução a Programação com C#\Desafio\Desafio\bin\Debug\netcoreapp3.1\Desafio.pdb
+C:\Projetos\Bootcamp-.Net-Fundamentals\Introdução a Programação com C#\Desafio\Desafio\obj\Debug\netcoreapp3.1\Desafio.csprojAssemblyReference.cache
+C:\Projetos\Bootcamp-.Net-Fundamentals\Introdução a Programação com C#\Desafio\Desafio\obj\Debug\netcoreapp3.1\Desafio.AssemblyInfoInputs.cache
+C:\Projetos\Bootcamp-.Net-Fundamentals\Introdução a Programação com C#\Desafio\Desafio\obj\Debug\netcoreapp3.1\Desafio.AssemblyInfo.cs
+C:\Projetos\Bootcamp-.Net-Fundamentals\Introdução a Programação com C#\Desafio\Desafio\obj\Debug\netcoreapp3.1\Desafio.csproj.CoreCompileInputs.cache
+C:\Projetos\Bootcamp-.Net-Fundamentals\Introdução a Programação com C#\Desafio\Desafio\obj\Debug\netcoreapp3.1\Desafio.dll
+C:\Projetos\Bootcamp-.Net-Fundamentals\Introdução a Programação com C#\Desafio\Desafio\obj\Debug\netcoreapp3.1\Desafio.pdb
+C:\Projetos\Bootcamp-.Net-Fundamentals\Introdução a Programação com C#\Desafio\Desafio\obj\Debug\netcoreapp3.1\Desafio.genruntimeconfig.cache
