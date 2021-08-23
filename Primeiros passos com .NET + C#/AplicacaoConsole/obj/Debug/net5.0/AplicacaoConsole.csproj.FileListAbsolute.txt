@@ -1,0 +1,16 @@
+C:\Projetos\Bootcamp-.Net-Fundamentals\Primeiros passos com .NET + C#\AplicacaoConsole\obj\Debug\net5.0\AplicacaoConsole.csprojAssemblyReference.cache
+C:\Projetos\Bootcamp-.Net-Fundamentals\Primeiros passos com .NET + C#\AplicacaoConsole\obj\Debug\net5.0\AplicacaoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Bootcamp-.Net-Fundamentals\Primeiros passos com .NET + C#\AplicacaoConsole\obj\Debug\net5.0\AplicacaoConsole.AssemblyInfoInputs.cache
+C:\Projetos\Bootcamp-.Net-Fundamentals\Primeiros passos com .NET + C#\AplicacaoConsole\obj\Debug\net5.0\AplicacaoConsole.AssemblyInfo.cs
+C:\Projetos\Bootcamp-.Net-Fundamentals\Primeiros passos com .NET + C#\AplicacaoConsole\obj\Debug\net5.0\AplicacaoConsole.csproj.CoreCompileInputs.cache
+C:\Projetos\Bootcamp-.Net-Fundamentals\Primeiros passos com .NET + C#\AplicacaoConsole\bin\Debug\net5.0\AplicacaoConsole.exe
+C:\Projetos\Bootcamp-.Net-Fundamentals\Primeiros passos com .NET + C#\AplicacaoConsole\bin\Debug\net5.0\AplicacaoConsole.deps.json
+C:\Projetos\Bootcamp-.Net-Fundamentals\Primeiros passos com .NET + C#\AplicacaoConsole\bin\Debug\net5.0\AplicacaoConsole.runtimeconfig.json
+C:\Projetos\Bootcamp-.Net-Fundamentals\Primeiros passos com .NET + C#\AplicacaoConsole\bin\Debug\net5.0\AplicacaoConsole.runtimeconfig.dev.json
+C:\Projetos\Bootcamp-.Net-Fundamentals\Primeiros passos com .NET + C#\AplicacaoConsole\bin\Debug\net5.0\AplicacaoConsole.dll
+C:\Projetos\Bootcamp-.Net-Fundamentals\Primeiros passos com .NET + C#\AplicacaoConsole\bin\Debug\net5.0\ref\AplicacaoConsole.dll
+C:\Projetos\Bootcamp-.Net-Fundamentals\Primeiros passos com .NET + C#\AplicacaoConsole\bin\Debug\net5.0\AplicacaoConsole.pdb
+C:\Projetos\Bootcamp-.Net-Fundamentals\Primeiros passos com .NET + C#\AplicacaoConsole\obj\Debug\net5.0\AplicacaoConsole.dll
+C:\Projetos\Bootcamp-.Net-Fundamentals\Primeiros passos com .NET + C#\AplicacaoConsole\obj\Debug\net5.0\ref\AplicacaoConsole.dll
+C:\Projetos\Bootcamp-.Net-Fundamentals\Primeiros passos com .NET + C#\AplicacaoConsole\obj\Debug\net5.0\AplicacaoConsole.pdb
+C:\Projetos\Bootcamp-.Net-Fundamentals\Primeiros passos com .NET + C#\AplicacaoConsole\obj\Debug\net5.0\AplicacaoConsole.genruntimeconfig.cache
