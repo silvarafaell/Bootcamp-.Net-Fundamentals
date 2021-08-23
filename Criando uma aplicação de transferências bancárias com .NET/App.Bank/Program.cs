@@ -6,7 +6,10 @@ namespace App.Bank
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Conta minhaconta = new Conta(TipoConta.PessoaFisica, 0, 0, "Francisco Rafael");
+
+
+            Console.WriteLine(minhaconta.ToString());
         }
     }
 }
